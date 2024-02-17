@@ -20,7 +20,7 @@ All of the contracts in `/oapp` can be referred to when building an Omnichain Ap
 
 - **OApp**: The OApp Standard provides developers with a generic message passing interface to send and receive arbitrary pieces of data between contracts existing on different blockchain networks. See the[ OApp Quickstart](https://docs.layerzero.network/contracts/oapp) to start building.
 
-- **OFT**: The Omnichain Fungible Token (OFT) Standard allows fungible tokens to be transferred across multiple blockchains without asset wrapping or middlechains. See the [OFT Quickstart](https://docs.layerzero.network/contracts/oft) to learn more.
+- **OFT**: The Omnichain Fungible Token (OFT) Standard allows fungible tokens to be transferred across multiple blockchains without asset wrapping or middlechains. See the [OFT Quickstart](https://docs.layerzero.network/contracts/oft) for more information.
 
 ## Protocol Contracts
 
